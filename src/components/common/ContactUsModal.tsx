@@ -16,9 +16,9 @@ export const ContactUsModal: React.FC<ContactUsModalProps> = ({
   if (!isOpen) return null;
 
   const teamMembers = [
-    { name: 'Vaibhavi Tiwari', phone: '+91 98765 12345' },
+    { name: 'Nitin Jha', phone: '+91 98765 12345' },
     { name: 'Kishan Jha', phone: '+91 98765 12346' },
-    { name: 'Nitin Jha', phone: '+91 98765 12347' },
+    { name: 'Vaibhavi Tiwari', phone: '+91 98765 12347' },
     { name: 'Rishi Jhunjhunwala', phone: '+91 98765 12348' },
     { name: 'Prachi', phone: '+91 98765 12349' },
     { name: 'Vedant', phone: '+91 98765 12350' }
