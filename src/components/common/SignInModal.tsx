@@ -62,7 +62,7 @@ export const SignInModal: React.FC<SignInModalProps> = ({
     setTimeout(() => {
       setIsLoading(false);
       onLoginSuccess({
-        name: 'Vaibhavi Tiwari',
+        name: 'Nitin Jha',
         role: 'Nodal Officer (Ward 4)',
         email: govEmail
       });
