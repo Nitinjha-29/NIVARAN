@@ -1,4 +1,7 @@
-# NIVARAN: Centralized Public Grievance Redress & AI Auto-Clustering Platform
+# NIVARAN: Centralized Public Grievance Redress & AI Auto-Clustering Platform 
+
+🚀 **Live Website:** [nivaran-ai-zeta.vercel.app](https://nivaran-ai-zeta.vercel.app)
+
 
 NIVARAN is an artificial intelligence-driven civic governance portal built for the Department of Administrative Reforms and Public Grievances (DARPG), Government of India. The platform streamlines citizen complaint lodging, vectorizes textual and voice complaints in real time, auto-categorizes departmental dispatches, identifies municipal ward duplicates to prevent redundant field work, and enforces mandatory 24-hour Service Level Agreement (SLA) resolution windows.
 
